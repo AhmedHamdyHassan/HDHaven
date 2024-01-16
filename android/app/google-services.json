@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21206349065",
+    "project_id": "hdhaven-e80d9",
+    "storage_bucket": "hdhaven-e80d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21206349065:android:11cca7d3ca4dd8e6e2cfd8",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRiYoSkfTLFtuxLvML5m382j1M1JzyAnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
