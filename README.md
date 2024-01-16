@@ -1,5 +1,5 @@
 # HDHaven
-Flutter app for displaying wallpapers that allow user to download them to their device
+Flutter app for displaying wallpapers that allow user to download them to their device Note-> To Clone the code press on Master not Main
 
 # App Features
 ## 1-User Authentication using Firebase
